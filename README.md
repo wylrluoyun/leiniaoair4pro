@@ -17,3 +17,7 @@ Android 应用。插上眼镜后，手机画面会以 3DoF 头部追踪的
 · 扩展屏模式建议搭配 Shizuku 使用；无 Shizuku 时仍可用镜像
 开源地址：github.com/wylrluoyun
 仅供个人侧载使用，与雷鸟/TCL 官方无关
+<img width="390" height="844" alt="4-系统" src="https://github.com/user-attachments/assets/7707e043-2368-4c8f-9b30-a205c1f26355" />
+<img width="390" height="844" alt="3-姿态" src="https://github.com/user-attachments/assets/0d8fb4b0-2df4-4f13-8361-f7b7f07471cc" />
+<img width="390" height="844" alt="2-画面" src="https://github.com/user-attachments/assets/1ea88d25-896d-4968-8c13-1876b2d9633c" />
+<img width="390" height="844" alt="1-概览" src="https://github.com/user-attachments/assets/9fc7c16b-3797-479f-82f4-a7c1f4ea3f5f" />
